@@ -12,3 +12,4 @@ THIS APP IS SPECIFICALLLY DESIGNED TO TRACK ONE'S FITNESS.IT IS EASY IS TO USE.
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/976e732c-0d28-4a57-8029-781bbdf42545)
